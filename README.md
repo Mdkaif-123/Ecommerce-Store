@@ -1,9 +1,5 @@
 # Ecommerce Store
 
-![Static Website](link_to_image)
-
-## Introduction
-
 Welcome to our Static Website! This project features a clean and professional user interface built with HTML, CSS, and Bootstrap. The website consists of two main pages - Home and Product. This Read Me document will guide you through the setup and the content of each page, offering a seamless browsing experience.
 
 ## Setup and Installation
@@ -43,6 +39,15 @@ Explore the Static Website and experience the simplicity and elegance of our des
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-kaif-ansari-b74543243/)
 
+
+## Screenshot
+**Home page**
+
+![Dashboard]([https://res.cloudinary.com/dngfmzv2g/image/upload/v1688916796/Screenshot_2023-07-09_205226_bubqar.png](https://res.cloudinary.com/dngfmzv2g/image/upload/v1690226122/Screenshot_2023-07-25_004300_sfmplg.png))
+
+**Product Page**
+
+![Registration Page]([https://res.cloudinary.com/dngfmzv2g/image/upload/v1688916796/Screenshot_2023-07-09_205858_nvhwrd.png](https://res.cloudinary.com/dngfmzv2g/image/upload/v1690226129/Screenshot_2023-07-25_004324_vpwmvn.png)https://res.cloudinary.com/dngfmzv2g/image/upload/v1690226129/Screenshot_2023-07-25_004324_vpwmvn.png)
 Thank you!
 
 Md Kaif Ansari
