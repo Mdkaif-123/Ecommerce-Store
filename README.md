@@ -43,11 +43,11 @@ Explore the Static Website and experience the simplicity and elegance of our des
 ## Screenshot
 **Home page**
 
-![Dashboard]([https://res.cloudinary.com/dngfmzv2g/image/upload/v1688916796/Screenshot_2023-07-09_205226_bubqar.png](https://res.cloudinary.com/dngfmzv2g/image/upload/v1690226122/Screenshot_2023-07-25_004300_sfmplg.png))
+![Dashboard](https://res.cloudinary.com/dngfmzv2g/image/upload/v1690226122/Screenshot_2023-07-25_004300_sfmplg.png)
 
 **Product Page**
 
-![Registration Page]([https://res.cloudinary.com/dngfmzv2g/image/upload/v1688916796/Screenshot_2023-07-09_205858_nvhwrd.png](https://res.cloudinary.com/dngfmzv2g/image/upload/v1690226129/Screenshot_2023-07-25_004324_vpwmvn.png)https://res.cloudinary.com/dngfmzv2g/image/upload/v1690226129/Screenshot_2023-07-25_004324_vpwmvn.png)
+![Registration Page](https://res.cloudinary.com/dngfmzv2g/image/upload/v1690226129/Screenshot_2023-07-25_004324_vpwmvn.png)
 Thank you!
 
 Md Kaif Ansari
